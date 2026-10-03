@@ -7,12 +7,12 @@ for (let i = 0; i < pagLivros.length; i++){
     soma += pagLivros[i];
 }
 
-for (const valorME of pagLivros ){
-    if (valorME > maiorQntd) maiorQntd = valorME;
+for (const maior of pagLivros ){
+    if (maior > maiorQntd) maiorQntd = maior;
 }
 
-for (const valorMA of pagLivros) {
-    if (valorMA < menorQntd) menorQntd = valorMA;
+for (const menor of pagLivros) {
+    if (menor < menorQntd) menorQntd = menor;
 }
 
 const mediaNotas = soma / pagLivros.length;
