@@ -10,6 +10,12 @@ Repository with basic programming logic exercises in TypeScript.
 4. **Multiples of 10** — iterates over a list of numbers and flags which ones are multiples of 10, suggesting to check the shelf in those cases.
 5. **Max, min and average** — calculates the highest value, the lowest value, and the average of a list of numbers (book page counts).
 6. **Loans** — sums up the values in a list, calculates the average, and counts how many items are greater than or equal to 15.
+7. **Purchase total** — takes a product's price and the quantity bought and calculates the total purchase value.
+8. **Student status** — calculates the average of three grades and uses `if` to report whether the student is approved (average ≥ 7), in recovery (between 5 and 6.9) or failed (below 5).
+9. **Support menu (switch)** — uses `switch` to display the option chosen in a support menu (check order, open ticket, talk to an agent or exit), handling invalid options.
+10. **Even numbers** — iterates from 1 to N and shows how many even numbers were found and their sum.
+11. **Class grades** — iterates over an array of grades and calculates the class average, the highest grade and the lowest grade.
+12. **Grades summary with functions** — uses one function to calculate the average of an array of grades and another to count how many grades are greater than or equal to 7
 
 ## How to run
 
